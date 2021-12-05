@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../inc/libft.h"
 
 static char	*reverse(char *str)
 {

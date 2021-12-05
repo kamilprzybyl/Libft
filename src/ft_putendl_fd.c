@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	ft_putendl_fd(char *s, int fd)
 {

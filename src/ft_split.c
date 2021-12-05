@@ -1,4 +1,4 @@
-#include "libft.h"
+#include "../inc/libft.h"
 
 static int	ft_count(char const *s, char c)
 {
