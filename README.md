@@ -1,3 +1,3 @@
 # Libft
-The aim of this project is to create a library of re-coded libc functions.
+just starting out with c - nothing in here that you would find intresting 
 
